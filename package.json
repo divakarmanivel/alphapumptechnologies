@@ -1,0 +1,16 @@
+{
+  "name": "alphapumptechnologies",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./css/styles.css --minify",
+    "watch:css": "tailwindcss -i ./src/input.css -o ./css/styles.css --watch",
+    "generate:favicon": "node scripts/generate-favicon.mjs",
+    "landing:webp": "node scripts/convert-landing-images.mjs",
+    "build:assets": "npm run generate:favicon && npm run landing:webp"
+  },
+  "devDependencies": {
+    "png-to-ico": "^2.1.8",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^3.4.17"
+  }
+}
