@@ -9,10 +9,10 @@
   ];
 
   var PRODUCT_LINKS = [
-    { href: "jet-pumps.html", label: "Jet Pumps", desc: "Bore well & domestic water supply", id: "jet-pumps" },
     { href: "monoblock-pump.html", label: "Monoblock Pumps", desc: "Centrifugal & continuous duty", id: "monoblock" },
-    { href: "submersible-pump.html", label: "Submersible Pumps", desc: "Openwell, 4\", 6\" & booster range", id: "submersible" },
+    { href: "submersible-pump.html", label: "Openwell Submersible Pumps", desc: "Openwell, 4\", 6\" & booster range", id: "submersible" },
     { href: "self-priming-pumps.html", label: "Self Priming Pumps", desc: "Regenerative & DMS monoblock", id: "self-priming" },
+    { href: "jet-pumps.html", label: "Jet Pumps", desc: "Bore well & domestic water supply", id: "jet-pumps" },
   ];
 
   var PRODUCT_PAGE_IDS = ["jet-pumps", "monoblock", "submersible", "self-priming"];
