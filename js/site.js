@@ -85,7 +85,7 @@
     });
     html += "</div>";
 
-    html += '<a href="mailto:alpha_pumptech@yahoo.in" class="mt-6 block text-center text-sm text-slate-400 hover:text-accent-light">alpha_pumptech@yahoo.in</a>';
+    html += '<a href="mailto:contact@alphapumptechnologies.com" class="mt-6 block text-center text-sm text-slate-400 hover:text-accent-light">contact@alphapumptechnologies.com</a>';
 
     return html;
   }
@@ -151,7 +151,7 @@
       "<li>259, VOC Nagar, Edayarpalayam<br>Coimbatore - 641025, Tamil Nadu</li>" +
       '<li><a href="tel:+919894732239">+91 98947 32239</a></li>' +
       '<li><a href="tel:+919791355444">+91 97913 55444</a></li>' +
-      '<li><a href="mailto:alpha_pumptech@yahoo.in">alpha_pumptech@yahoo.in</a></li>' +
+      '<li><a href="mailto:contact@alphapumptechnologies.com">contact@alphapumptechnologies.com</a></li>' +
       "</ul></div>" +
       "</div>" +
       '<div class="footer-bottom"><div class="container-main footer-bottom-inner">' +
